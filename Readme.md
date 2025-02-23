@@ -54,8 +54,5 @@ Several visualizations were created to gain insights into customer segmentation:
 - Use **machine learning models** for automated segmentation.
 - Develop an interactive **dashboard** for real-time customer insights.
 
-## Author
-- **[Your Name]**
-- GitHub: [Your GitHub Username](https://github.com/your-github-username)
-- Email: your.email@example.com
+
 
