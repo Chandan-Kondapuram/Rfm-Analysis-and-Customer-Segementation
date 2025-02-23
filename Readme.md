@@ -1,5 +1,9 @@
 # Customer Segmentation Using RFM Analysis
 
+
+## About
+This project focuses on customer segmentation using **RFM (Recency, Frequency, Monetary) Analysis** to classify customers based on their purchasing behavior. By analyzing transaction history, businesses can optimize marketing strategies, improve customer retention, and enhance sales performance.
+
 ## Project Overview
 This project implements **RFM (Recency, Frequency, Monetary) Analysis** to segment customers based on their purchasing behavior. The goal is to identify high-value customers, potential loyalists, and at-risk customers to optimize marketing strategies and improve customer retention.
 
